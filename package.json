@@ -2,7 +2,7 @@
   "name": "parking-lot-online",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://parking-lot.github.io/hello",
+  "homepage": "https://santi1428.github.io/hello",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.11.0",
