@@ -1,0 +1,10 @@
+.img-Services{
+    width: 350px;
+    height: 250px;
+    border-radius: 20%;
+    padding: 0;
+    margin: 0px;
+}
+#service{
+    background: linear-gradient(to right, rgb(255, 102, 0), rgba(255, 102, 0, 0.808));
+}
